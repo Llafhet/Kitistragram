@@ -1,4 +1,4 @@
-# 📸 Kitigram
+# 📸 Kitistragram
 > Una simulación del *frontend* de Instagram desarrollada con **Svelte**, que consume una API externa para mostrar publicaciones en formato de tarjetas (*cards*).
 
 ---
